@@ -1,2 +1,1 @@
-# A
-It's my first game
+Game 
